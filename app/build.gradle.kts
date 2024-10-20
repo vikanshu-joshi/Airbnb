@@ -70,4 +70,6 @@ dependencies {
     implementation(libs.constraintlayout.compose)
     implementation(libs.compose.animation)
     implementation(libs.navigation.compose)
+    implementation(libs.compose.coil)
+    implementation(libs.compose.coil.network.okhttp)
 }
